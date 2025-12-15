@@ -9,6 +9,7 @@
   margin: auto
 }
 
+
 @media (max-width: 1150px) {
   .header {
     padding: 1rem 2rem 0 2rem;
